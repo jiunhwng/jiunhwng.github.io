@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  background-image: url("/Users/hwangjiun/Desktop/2.jpeg");
+  background-image: url("2.jpeg");
   background-size: cover;
 }
 
